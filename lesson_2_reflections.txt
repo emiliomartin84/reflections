@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A new hidden directory .get is created in the current folder where the commadn git init is executed. Is first step to create a git repository. 
